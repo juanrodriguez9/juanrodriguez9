@@ -68,11 +68,9 @@
 
     ![Terminal](https://img.shields.io/badge/Terminal-%23054020?style=for-the-badge&logo=gnu-bash&logoColor=white)
     ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
-    ![Bitbucket]_(https://iconos8.es/icon/iZTo5EQZtLKm/bitbucket-is-a-web-based-version-control-repository-hosting-service)
+    ![Bitbucket](https://iconos8.es/icon/iZTo5EQZtLKm/bitbucket-is-a-web-based-version-control-repository-hosting-service).
   
   
-
-
 </p>
 
 <br>

@@ -33,9 +33,9 @@
 <p align="center">
 
 - **Languages**:
-    
-    ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+
     ![JAVA](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+    ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 
 
 <br>   
@@ -67,7 +67,10 @@
 - **Extras**:
 
     ![Terminal](https://img.shields.io/badge/Terminal-%23054020?style=for-the-badge&logo=gnu-bash&logoColor=white)
-    ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)   
+    ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
+    ![Bitbucket]_(https://iconos8.es/icon/iZTo5EQZtLKm/bitbucket-is-a-web-based-version-control-repository-hosting-service)
+  
+  
 
 
 </p>
